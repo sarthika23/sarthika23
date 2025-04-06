@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthika Kashmire</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthika23&label=Profile%20views&color=0e75b6&style=flat" alt="sarthika23" /> </p>
 
-- 🔭 I’m currently working on **COEP ZEST'25 website**
-
-- 🌱 I’m currently learning **JAVA**
-
 - 📫 How to reach me **sarthikakashmire61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
